@@ -1,2 +1,2 @@
 # githubdemo07sep
-Demo classesd
+Demo classes
